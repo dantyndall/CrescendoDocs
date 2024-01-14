@@ -10,5 +10,5 @@ Summary of contents
 | --- | --- |
 | FRC_Rule_Cheat_Sheet_2024.pub/FRC_Rule_Cheat_Sheet_2024.pdf | Quick cheat sheet of important rules and their penalties. |
 | frc_2024_field_background.pdf/frc_2024_field_background.ai | Simplified schematic of field that can be laminated to use dry erase markers on. |
-| violation_sheet.pdf | A form that can be handed between Key Volunteers to track Yellow and Red Cards. |
+| violation_sheet.pdf | A form that can be handed between Key Volunteers to track major violations. |
   
