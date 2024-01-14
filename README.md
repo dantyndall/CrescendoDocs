@@ -4,7 +4,9 @@ This repository contains documents that may be useful for certain key volunteers
 
 If you update the Adobe Illustrator files, please save as CS6 formats...
 
-Summary of contents
+The rule cheat sheet uses most of the summary text, but some of them have been reworded to make it more useful.
+
+Summary of contents:
 
 | File | Description |
 | --- | --- |
